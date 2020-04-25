@@ -1,0 +1,13 @@
+
+footer{
+  background-color: #2f2f2f;
+  color:#d5d5d5;
+  padding-top:2rem
+}
+.light{
+  border-top: 1px solid #d5d5d5;
+  width: 75%;
+}
+.hr{
+  color: #4f4f4f;
+}
